@@ -1,15 +1,17 @@
 # vscode-tldr
-**Never slog through endless lines of release notes again. Instead, have them presented my a menagerie of whimsy animals in an easy-to-read format. 🐳🦁🐢🦊🦉🐧🦄🐙🐝🦋🐞🐸🦥🐼🦜🐬🦔🦒🦘🐨🦩**
+
+**Never slog through endless lines of release notes again. Instead, have them presented my a menagerie of whimsy animals in an easy-to-read format.** 🐳🦁🐢
 
 As a developer friend once told me: "_Do I read VS Code release notes? God no! If I read all that I'd never get anything done._"
 
 Well now, you don't have to.
 
-This is a Claude skill that takes VS Code release notes and turns them into a max 10-line summary you'll actually read. Each item gets an emoji chosen for a reason (penguins queue 🐧, frogs jump 🐸, crabs go sideways 🦀), dry wit where earned, and a one-line vibe check at the end.
+
+This is a Claude skill that takes VS Code release notes and turns them into a max 10-line summary you'll actually read. Each item gets an emoji chosen for a reason (penguins queue 🐧, frogs jump 🐸, crabs go sideways 🦀).
 
 **Example output**
 
-From VS Code 1.124:
+From [VS Code 1.124](https://code.visualstudio.com/updates/v1_124):
 
 🐧 Background sessions: queue up your next agent request before the current one finishes, no waiting around
 
@@ -32,7 +34,7 @@ From VS Code 1.124:
 TL;DR: This release is mostly about agent sessions finally feeling like something you can use rather than ignore.
 
 
-## Installation (not scary)
+## Installation (not scary 🧛) 
  
 ### Claude Code (VS Code)
  
