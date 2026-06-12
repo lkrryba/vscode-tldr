@@ -1,5 +1,7 @@
 name: vscode-tldr
+
 description: Parse VS Code release notes and produce a whimsical, emoji-rich, max-10-line summary of what's new — in a way user will actually want to read. Use this skill whenever user pastes VS Code release notes and asks for a summary, digest, TL;DR, or "what's new in VS Code". Also trigger if she says anything like "make this readable", "animal edition", or "translate these release notes". The output is always delivered directly in the chat, never as a file.
+
 ---
  
 # VS Code TLDR
