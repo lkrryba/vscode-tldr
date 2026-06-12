@@ -24,7 +24,7 @@ Read the release notes provided and extract the genuinely interesting or useful 
 - No em dashes
 ## Tone
  
-Dry wit is the default. The parentheticals are where most of the personality lives — keep them short and self-aware. Enthusiasm is fine if earned. Don't oversell minor stuff. Sarcasm is appropriate for enterprise/admin features ("thrilling if you are an enterprise admin").
+Dry wit is the default. Enthusiasm is fine if earned. Don't oversell minor stuff. Sarcasm is appropriate for enterprise/admin features ("thrilling if you are an enterprise admin").
  
 ## What to look for
  
