@@ -37,13 +37,21 @@ Prioritise in this order:
 ## Example output style (not content — don't reuse this)
  
 🐧 Background session queuing means you can fire off requests without waiting for the last one to finish
+
 🧟‍♀️ Sessions now restore after a reload, layout and all, so you land exactly where you left off
+
 🐦 New keyboard picker lets you search and hop between sessions with ⌃R
+
 🤖 Agents now use a utility model to decide when they're actually done instead of just stopping
+
 🐸 New shortcuts to step forward and back through sessions and jump by position
+
 📖 Browser URL bar now suggests pages from your history as you type
+
 🧐 Single-file diff setting so you can focus on one change without the noise
+
 🦀 Chevron in the editor title bar collapses the sidebar to widen your view
+
 🥳 Enterprise plugin policies sync from one config file now, thrilling if you are an enterprise admin
  
 TL;DR: This one's all about making agent sessions feel less like chaos and more like a workflow.
