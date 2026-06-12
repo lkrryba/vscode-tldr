@@ -34,7 +34,7 @@ From [VS Code 1.124](https://code.visualstudio.com/updates/v1_124):
 TL;DR: This release is mostly about agent sessions finally feeling like something you can use rather than ignore.
 
 
-## Installation (not scary 🧛) 
+## Installation (not scary 🧛) ~ or just copy/paste into your AI of choice and tell it to build a skill from it.
  
 ### Claude Code (VS Code)
  
