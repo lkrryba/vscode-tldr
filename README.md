@@ -1,6 +1,6 @@
 # vscode-tldr
 
-**Never slog through endless lines of release notes again. Instead, have them presented my a menagerie of whimsy animals in an easy-to-read format.** 🐳🦁🐢
+**Never slog through endless lines of release notes again. Instead, have them presented by a menagerie of whimsy animals in an easy-to-read format.** 🐳🦁🐢
 
 As a developer friend once told me: "_Do I read VS Code release notes? God no! If I read all that I'd never get anything done._"
 
